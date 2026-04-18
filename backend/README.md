@@ -113,8 +113,9 @@ ecommerce-backend/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ecommerce-backend.git
-   cd ecommerce-backend
+   git clone https://github.com/yourusername/ecommerce-app.git
+   cd ecommerce-app
+   cd backend
    ```
 
 2. Create a `.env` file with the following variables:
